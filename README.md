@@ -1,5 +1,10 @@
 # [Ghost](https://github.com/TryGhost/Ghost) [![Build Status](https://travis-ci.org/TryGhost/Ghost.svg?branch=master)](https://travis-ci.org/TryGhost/Ghost)
 
+This code has been forked from the Ghost repo to have an easy installable Ghost server for local testing of the blog
+while editing the theme.  The Casper theme has been included in this tree where edits are made for TW use.  You edit
+that theme while testing on this local Ghost install, then zip the theme and post it to the Traitwise blog at Ghost.com.
+
+
 Ghost is a free, open, simple blogging platform that's available to anyone who wants to use it. Lovingly created and maintained by [John O'Nolan](http://twitter.com/JohnONolan) + [Hannah Wolfe](http://twitter.com/ErisDS) + an amazing group of [contributors](https://github.com/TryGhost/Ghost/contributors).
 
 Visit the project's website at <http://ghost.org> &bull; docs on <http://support.ghost.org>.
