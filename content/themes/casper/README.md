@@ -2,6 +2,8 @@
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/).
 
+This one has been removed from the submodule and included in the forked tree for Traitwise so we can easily modify the theme on a dev machine, view changes live on a Ghost install under node.js, and then post the zipped them to the live Ghost blog at ghost.com.
+
 To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
 
 ## Copyright & License
